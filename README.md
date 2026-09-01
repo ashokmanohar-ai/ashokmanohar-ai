@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Ashok Kumar Manohar — AI Quality Engineer and Test Architect" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Ashok Kumar Manohar — Test Architect and AI Quality Engineer" />
 </p>
+
+<h2 align="center">Test Architect | AI Quality Engineer | Playwright, API &amp; CI/CD | LLM, RAG &amp; Agent Evaluation</h2>
+
+<p align="center"><strong>Enterprise test architecture with measurable AI-quality differentiation</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashok-kumar-manohar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Ashok Kumar Manohar on LinkedIn" /></a>
@@ -10,7 +14,7 @@
 
 ## About me
 
-I am an **AI Quality Engineer and Test Architect** focused on making nondeterministic software systems measurable, testable, secure, observable, and releasable.
+I am a **Test Architect and AI Quality Engineer** focused on making nondeterministic software systems measurable, testable, secure, observable, and releasable.
 
 My work connects **LLM, RAG, agent and MCP evaluation** with the engineering disciplines required to ship dependable products: Playwright automation, API and contract testing, performance and reliability engineering, security controls, observability, CI/CD quality gates, and human governance.
 
@@ -27,14 +31,16 @@ These are reproducible, synthetic portfolio datasets and reference implementatio
 
 ## Featured engineering work
 
-| Project | Problem solved | Engineering evidence |
-| --- | --- | --- |
-| **[Enterprise AI Quality Engineering Platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform)** | Unifies fragmented LLM, RAG, agent, MCP, security, performance and observability checks into one release-control system | Shared contracts and datasets, normalized results, hard safety gates, baseline comparison, Phoenix/Langfuse tracing, Docker and governed GitHub Actions |
-| **[Agentic Quality Engineering Platform](https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform)** | Turns requirements, risk, code changes and execution evidence into reviewable QE decisions | Nine specialized agents, explicit LangGraph state, RBAC, audit events, Playwright validation, human approval and deterministic release gates |
-| **[AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework)** | Tests whether agents complete work correctly instead of merely producing convincing text | 70 cases across task completion, tool use, trajectory, grounding, safety, recovery, efficiency and performance; JSON, HTML and JUnit reports |
-| **[RAG & LLM Evaluation Lab](https://github.com/ashokmanohar-ai/rag-llm-evaluation-lab)** | Separates retrieval, context and generation quality so fluent answers cannot hide weak evidence | Dense and BM25 retrieval, RRF, optional reranking, 80 cases, citation validation, hallucination checks, regression baselines and quality gates |
-| **[AI Test Failure Triage Agent](https://github.com/ashokmanohar-ai/ai-test-failure-triage-agent)** | Correlates automation evidence before proposing a root-cause classification | Playwright reports, traces, screenshots, logs, network, history and git changes; deterministic diagnostics, `UNKNOWN` fallback and calibrated evaluation |
-| **[Playwright Enterprise Test Framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework)** | Provides scalable browser and API assurance without hiding Playwright behind unnecessary abstractions | TypeScript strict mode, cross-browser execution, API contracts, accessibility, visual checks, sharding, structured evidence, Docker and release gates |
+| Priority | Project | Recruiter evidence |
+| ---: | --- | --- |
+| **1** | **[Playwright Enterprise Test Framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework)** | Strict TypeScript, UI/API/integration automation, cross-browser sharding, accessibility, visual checks, Docker, evidence-rich CI and a governed quality gate |
+| **2** | **[Enterprise AI Quality Engineering Platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform)** | DeepEval, Ragas, Promptfoo, LLM/RAG/agent/MCP evaluation, canonical datasets, hard safety gates, Azure OpenAI and Phoenix-first observability |
+| **3** | **[API & Integration Testing Framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework)** | REST, GraphQL, Pact, RBAC, persistence, WireMock fault injection, transactional events, Redpanda, retries and idempotency |
+| **4** | **[Agentic Quality Engineering Platform](https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform)** | Nine specialized agents, explicit LangGraph state, deterministic controls, RBAC, audit events, hash-bound human approval and real Playwright execution |
+| **5** | **[Continuous Quality Engineering](https://github.com/ashokmanohar-ai/continuous-quality-engineering)** | Functional, contract, accessibility, security and performance evidence combined into transparent release recommendations |
+| **6** | **[AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework)** | 70 versioned cases across task completion, tool use, trajectory, grounding, safety, approvals, recovery and regression quality |
+
+Each flagship repository provides a recruiter quick tour, a reproducible five-minute proof path and scoped release evidence. Portfolio datasets and demonstrations are explicitly identified as synthetic/reference implementations.
 
 ### Broader quality-engineering systems
 
