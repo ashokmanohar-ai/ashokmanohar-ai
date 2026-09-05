@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashok-kumar-manohar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Ashok Kumar Manohar on LinkedIn" /></a>
   <a href="https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform"><img src="https://img.shields.io/badge/Flagship-AI_Quality_Platform-0E7490?style=for-the-badge" alt="Enterprise AI Quality Engineering Platform" /></a>
-  <img src="https://img.shields.io/badge/Focus-Evidence_Driven_QE-6D28D9?style=for-the-badge" alt="Evidence-driven quality engineering" />
+  <a href="https://github.com/ashokmanohar-ai/ashokmanohar-ai/blob/main/PORTFOLIO_EVIDENCE.md"><img src="https://img.shields.io/badge/Portfolio-Verified_Evidence-0F766E?style=for-the-badge" alt="Verified Portfolio Evidence Index" /></a>
 </p>
 
 <p align="center">
@@ -39,6 +39,8 @@ The delivery outcomes above come from prior enterprise work. Portfolio datasets 
 | Playwright, APIs, contracts, performance, accessibility, CI/CD and release evidence | LLM, RAG, agent and MCP evaluation with datasets, observability, regression and hard gates | Explicit agent state, bounded tools, approvals, auditability, execution controls and measurable agent quality |
 
 **Portfolio standard:** flagship projects provide a recruiter walkthrough, a reproducible verification path, explicit architecture decisions, stable release evidence and transparent limitations.
+
+**Verification index:** [Portfolio Evidence Index](https://github.com/ashokmanohar-ai/ashokmanohar-ai/blob/main/PORTFOLIO_EVIDENCE.md) consolidates merged PRs, test counts, CI validation, security boundaries, release evidence and known limitations across the flagship portfolio.
 
 ## 90-second portfolio routes
 
