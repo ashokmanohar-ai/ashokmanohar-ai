@@ -12,19 +12,33 @@
   <img src="https://img.shields.io/badge/Focus-Evidence_Driven_QE-6D28D9?style=for-the-badge" alt="Evidence-driven quality engineering" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Playwright_Framework-v1.0.0-2EAD33?style=flat-square" alt="Playwright Enterprise Test Framework v1.0.0" /></a>
+  <a href="https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Enterprise_AI_QE-v1.0.0-0E7490?style=flat-square" alt="Enterprise AI Quality Engineering Platform v1.0.0" /></a>
+  <a href="https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Agentic_QE-v1.0.0-6D28D9?style=flat-square" alt="Agentic Quality Engineering Platform v1.0.0" /></a>
+</p>
+
 ## Recruiter snapshot
 
 I am a **Test Architect and AI Quality Engineering Architect with 14+ years of experience** building enterprise quality-engineering systems across automation, APIs, CI/CD, reliability, and AI evaluation.
 
 - **Selected delivery impact:** reduced escaped defects by **40% year over year**, increased FHIR API coverage from **60% to 95%**, and reduced regression execution from **4 hours to under 60 minutes**.
 - **Primary role fit:** Test Architect · Quality Engineering Architect · AI Quality Engineering Architect · AI Test Automation Architect.
-- **Adjacent AI delivery fit:** Agentic AI Quality Engineer · Forward Deployed Engineer (AI), where strong customer integration, deployment and operational evidence are required.
+- **AI delivery alignment:** Agentic AI Engineer · Agentic AI Quality Engineer · Forward Deployed Engineer (AI), supported by portfolio evidence across customer discovery, integration, deployment, evaluation, observability and incident response.
 - **Differentiator:** I connect deterministic software-quality engineering—Playwright, API, contract, performance and CI/CD—with **LLM, RAG, agent and MCP evaluation**.
 - **Quality model:** AI quality is treated as a continuous engineering control system: **versioned evidence → evaluation → observability → regression → release gates**, not as isolated prompt or benchmark scores.
 
 The delivery outcomes above come from prior enterprise work. Portfolio datasets and demonstrations are explicitly identified as synthetic or reference implementations.
 
 > **Evidence first. AI assists engineering decisions; it does not replace engineering controls.**
+
+## What I architect
+
+| Enterprise QE architecture | AI quality control systems | Governed agentic systems |
+| --- | --- | --- |
+| Playwright, APIs, contracts, performance, accessibility, CI/CD and release evidence | LLM, RAG, agent and MCP evaluation with datasets, observability, regression and hard gates | Explicit agent state, bounded tools, approvals, auditability, execution controls and measurable agent quality |
+
+**Portfolio standard:** flagship projects provide a recruiter walkthrough, a reproducible verification path, explicit architecture decisions, stable release evidence and transparent limitations.
 
 ## 90-second portfolio routes
 
