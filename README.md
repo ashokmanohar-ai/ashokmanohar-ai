@@ -42,15 +42,15 @@ These are reproducible, synthetic portfolio datasets and reference implementatio
 | **2** | **[Enterprise AI Quality Engineering Platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform)** | DeepEval, Ragas, Promptfoo, LLM/RAG/agent/MCP evaluation, canonical datasets, hard safety gates, Azure OpenAI and Phoenix-first observability |
 | **3** | **[API & Integration Testing Framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework)** | REST, GraphQL, Pact, RBAC, persistence, WireMock fault injection, transactional events, Redpanda, retries and idempotency |
 | **4** | **[Agentic Quality Engineering Platform](https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform)** | Nine specialized agents, explicit LangGraph state, deterministic controls, RBAC, audit events, hash-bound human approval and real Playwright execution |
-| **5** | **[Continuous Quality Engineering](https://github.com/ashokmanohar-ai/continuous-quality-engineering)** | Functional, contract, accessibility, security and performance evidence combined into transparent release recommendations |
-| **6** | **[AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework)** | 70 versioned cases across task completion, tool use, trajectory, grounding, safety, approvals, recovery and regression quality |
+| **5** | **[RAG & LLM Evaluation Lab](https://github.com/ashokmanohar-ai/rag-llm-evaluation-lab)** | Hybrid retrieval, reranking, groundedness, hallucination, citation, latency, token, cost and regression evaluation with reproducible evidence |
+| **6** | **[Performance & Reliability Testing](https://github.com/ashokmanohar-ai/performance-reliability-testing)** | k6 workload engineering, SLO gates, fault injection, Prometheus/Grafana observability and automated regression detection |
 
 Each flagship repository provides a recruiter quick tour, a reproducible five-minute proof path and scoped release evidence. Portfolio datasets and demonstrations are explicitly identified as synthetic/reference implementations.
 
 ### Broader quality-engineering systems
 
-- **[Performance & Reliability Testing](https://github.com/ashokmanohar-ai/performance-reliability-testing)** — k6 workloads, PostgreSQL, WireMock fault injection, Prometheus/Grafana observability, SLO gates and regression detection.
-- **[API & Integration Testing Framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework)** — REST, GraphQL, Pact, RBAC, persistence, asynchronous events, retries, idempotency and Docker-based integration testing.
+- **[AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework)** — 70 versioned cases covering task completion, tool use, trajectories, grounding, safety, approvals, recovery and regression quality.
+- **[AI Test Failure Triage Agent](https://github.com/ashokmanohar-ai/ai-test-failure-triage-agent)** — evidence-driven classification using Playwright artifacts, deterministic diagnostics, calibrated confidence and 80 controlled evaluation cases.
 - **[Continuous Quality Engineering](https://github.com/ashokmanohar-ai/continuous-quality-engineering)** — functional, contract, accessibility, security and performance evidence combined into transparent release recommendations.
 
 ## Quality-engineering system map
