@@ -74,6 +74,19 @@ These are reproducible, synthetic portfolio datasets and reference implementatio
 
 Each flagship repository provides a recruiter quick tour, a reproducible five-minute proof path and scoped release evidence. Portfolio datasets and demonstrations are explicitly identified as synthetic/reference implementations.
 
+## Portfolio scope
+
+The six projects above are my **current flagship engineering portfolio** and are the best representation of my present architectural level. Other public repositories are intentionally separated by purpose so that older learning history is not confused with current role-readiness evidence.
+
+| Portfolio tier | Purpose | Representative repositories |
+| --- | --- | --- |
+| **Flagship — evaluate me here first** | Current architect-level engineering proof | Playwright Enterprise Test Framework · Enterprise AI Quality Engineering Platform · Agentic Quality Engineering Platform · API & Integration Testing Framework · RAG & LLM Evaluation Lab · Performance & Reliability Testing |
+| **Supporting engineering systems** | Deeper evidence around AI evaluation, failure analysis and continuous quality | [AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework) · [AI Test Failure Triage Agent](https://github.com/ashokmanohar-ai/ai-test-failure-triage-agent) · [Continuous Quality Engineering](https://github.com/ashokmanohar-ai/continuous-quality-engineering) |
+| **Guides and focused learning assets** | Technical education, experiments and skill development | Claude Code · GitHub Copilot · OpenAI Codex · LangGraph/Playwright/AI learning labs and similar focused guides |
+| **Historical learning repositories** | Earlier tools, tutorials, forks and technology exploration retained as career history | Earlier Postman, Appium, Katalon, Selenium, cloud, data-science and introductory repositories; these are not presented as my current architectural standard |
+
+For senior-role evaluation, I recommend starting with the **flagship tier** and the [Portfolio Evidence Index](https://github.com/ashokmanohar-ai/ashokmanohar-ai/blob/main/PORTFOLIO_EVIDENCE.md).
+
 ## Architect and delivery signal
 
 My portfolio is intentionally organized around the responsibilities expected beyond individual test implementation:
