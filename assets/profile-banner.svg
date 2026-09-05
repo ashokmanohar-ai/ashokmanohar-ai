@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Ashok Kumar Manohar — Test Architect and AI Quality Engineer</title>
-  <desc id="desc">Professional banner highlighting Test Architecture, Playwright, API and CI/CD engineering, plus LLM, RAG and agent evaluation.</desc>
+  <title id="title">Ashok Kumar Manohar — Test Architect and AI Quality Engineering Architect</title>
+  <desc id="desc">Professional banner highlighting Test Architecture, Agentic AI, Playwright, API and CI/CD engineering, plus LLM, RAG and agent evaluation.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -36,8 +36,8 @@
 
   <rect x="72" y="62" width="86" height="6" rx="3" fill="url(#accent)"/>
   <text x="72" y="124" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.4">Ashok Kumar Manohar</text>
-  <text x="72" y="166" fill="#bae6fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="1.8">TEST ARCHITECT  ·  AI QUALITY ENGINEER</text>
-  <text x="72" y="207" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Playwright, API &amp; CI/CD  ·  LLM, RAG &amp; Agent Evaluation</text>
+  <text x="72" y="166" fill="#bae6fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.35">TEST ARCHITECT  ·  AI QUALITY ENGINEERING ARCHITECT</text>
+  <text x="72" y="207" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Agentic AI · Playwright · API &amp; CI/CD · LLM, RAG &amp; Agent Evaluation</text>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
     <rect x="72" y="239" width="214" height="36" rx="18" fill="#0e7490" opacity="0.72"/>
