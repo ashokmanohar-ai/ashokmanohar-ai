@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Ashok Kumar Manohar — Test Architect and AI Quality Engineer" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Ashok Kumar Manohar — Test Architect and AI Quality Engineering Architect" />
 </p>
 
-<h2 align="center">Test Architect | AI Quality Engineer | Playwright, API &amp; CI/CD | LLM, RAG &amp; Agent Evaluation</h2>
+<h2 align="center">Test Architect | AI Quality Engineering Architect | Agentic AI, Playwright, API &amp; CI/CD | LLM, RAG &amp; Agent Evaluation</h2>
 
-<p align="center"><strong>Enterprise test architecture with measurable AI-quality differentiation</strong></p>
+<p align="center"><strong>Bridging enterprise Quality Engineering and production AI with measurable, reviewable release evidence</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashok-kumar-manohar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Ashok Kumar Manohar on LinkedIn" /></a>
@@ -14,16 +14,27 @@
 
 ## Recruiter snapshot
 
-I am a **Test Architect and AI Quality Engineer with 14+ years of experience** building enterprise quality-engineering systems across automation, APIs, CI/CD, reliability, and AI evaluation.
+I am a **Test Architect and AI Quality Engineering Architect with 14+ years of experience** building enterprise quality-engineering systems across automation, APIs, CI/CD, reliability, and AI evaluation.
 
 - **Selected delivery impact:** reduced escaped defects by **40% year over year**, increased FHIR API coverage from **60% to 95%**, and reduced regression execution from **4 hours to under 60 minutes**.
-- **Best-fit roles:** Test Architect · QE Architect / Practice Lead · AI Quality Engineering Lead.
-- **Differentiator:** I connect Playwright, API, contract, performance, and release engineering with **LLM, RAG, agent, and MCP evaluation**.
-- **90-second portfolio route:** [Playwright framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework) → [Enterprise AI QE platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform) → [API integration framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework).
+- **Primary role fit:** Test Architect · Quality Engineering Architect · AI Quality Engineering Architect · AI Test Automation Architect.
+- **Adjacent AI delivery fit:** Agentic AI Quality Engineer · Forward Deployed Engineer (AI), where strong customer integration, deployment and operational evidence are required.
+- **Differentiator:** I connect deterministic software-quality engineering—Playwright, API, contract, performance and CI/CD—with **LLM, RAG, agent and MCP evaluation**.
+- **Quality model:** AI quality is treated as a continuous engineering control system: **versioned evidence → evaluation → observability → regression → release gates**, not as isolated prompt or benchmark scores.
 
 The delivery outcomes above come from prior enterprise work. Portfolio datasets and demonstrations are explicitly identified as synthetic or reference implementations.
 
 > **Evidence first. AI assists engineering decisions; it does not replace engineering controls.**
+
+## 90-second portfolio routes
+
+Choose the route closest to the role you are hiring for:
+
+| Hiring focus | Fastest evidence route |
+| --- | --- |
+| **Test / QE Architecture** | [Playwright Enterprise Test Framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework) → [API & Integration Testing Framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework) → [Performance & Reliability Testing](https://github.com/ashokmanohar-ai/performance-reliability-testing) |
+| **AI Quality Engineering** | [Enterprise AI Quality Engineering Platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform) → [RAG & LLM Evaluation Lab](https://github.com/ashokmanohar-ai/rag-llm-evaluation-lab) → [AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework) |
+| **Agentic AI / AI Automation** | [Agentic Quality Engineering Platform](https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform) → [AI Test Failure Triage Agent](https://github.com/ashokmanohar-ai/ai-test-failure-triage-agent) → [QE to Forward Deployed AI Engineer](https://github.com/ashokmanohar-ai/-qe-to-forward-deployed-ai-engineer) |
 
 ## Engineering proof
 
@@ -40,18 +51,29 @@ These are reproducible, synthetic portfolio datasets and reference implementatio
 | ---: | --- | --- |
 | **1** | **[Playwright Enterprise Test Framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework)** | Strict TypeScript, UI/API/integration automation, cross-browser sharding, accessibility, visual checks, Docker, evidence-rich CI and a governed quality gate |
 | **2** | **[Enterprise AI Quality Engineering Platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform)** | DeepEval, Ragas, Promptfoo, LLM/RAG/agent/MCP evaluation, canonical datasets, hard safety gates, Azure OpenAI and Phoenix-first observability |
-| **3** | **[API & Integration Testing Framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework)** | REST, GraphQL, Pact, RBAC, persistence, WireMock fault injection, transactional events, Redpanda, retries and idempotency |
-| **4** | **[Agentic Quality Engineering Platform](https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform)** | Nine specialized agents, explicit LangGraph state, deterministic controls, RBAC, audit events, hash-bound human approval and real Playwright execution |
+| **3** | **[Agentic Quality Engineering Platform](https://github.com/ashokmanohar-ai/agentic-quality-engineering-platform)** | Nine specialized agents, explicit LangGraph state, deterministic controls, RBAC, audit events, hash-bound human approval and real Playwright execution |
+| **4** | **[API & Integration Testing Framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework)** | REST, GraphQL, Pact, RBAC, persistence, WireMock fault injection, transactional events, Redpanda, retries and idempotency |
 | **5** | **[RAG & LLM Evaluation Lab](https://github.com/ashokmanohar-ai/rag-llm-evaluation-lab)** | Hybrid retrieval, reranking, groundedness, hallucination, citation, latency, token, cost and regression evaluation with reproducible evidence |
 | **6** | **[Performance & Reliability Testing](https://github.com/ashokmanohar-ai/performance-reliability-testing)** | k6 workload engineering, SLO gates, fault injection, Prometheus/Grafana observability and automated regression detection |
 
 Each flagship repository provides a recruiter quick tour, a reproducible five-minute proof path and scoped release evidence. Portfolio datasets and demonstrations are explicitly identified as synthetic/reference implementations.
 
-### Broader quality-engineering systems
+## Architect and delivery signal
+
+My portfolio is intentionally organized around the responsibilities expected beyond individual test implementation:
+
+- **Architecture:** reusable test architecture, service boundaries, contracts, configuration, evidence pipelines and quality gates.
+- **Engineering governance:** deterministic controls, explicit failure modes, least-privilege patterns, human approval and auditable release decisions.
+- **Technical leadership:** reference architectures, engineering standards, technology evaluation, interview-ready design rationale and reusable implementation patterns.
+- **Customer-facing delivery:** problem framing, solution architecture, integration design, measurable success criteria, demos, operational troubleshooting and handover thinking.
+- **Production mindset:** CI/CD, containers, observability, reliability, security boundaries, cost/latency awareness and clear separation between reference implementations and production claims.
+
+## Broader quality-engineering systems
 
 - **[AI Agent Evaluation Framework](https://github.com/ashokmanohar-ai/ai-agent-evaluation-framework)** — 70 versioned cases covering task completion, tool use, trajectories, grounding, safety, approvals, recovery and regression quality.
 - **[AI Test Failure Triage Agent](https://github.com/ashokmanohar-ai/ai-test-failure-triage-agent)** — evidence-driven classification using Playwright artifacts, deterministic diagnostics, calibrated confidence and 80 controlled evaluation cases.
 - **[Continuous Quality Engineering](https://github.com/ashokmanohar-ai/continuous-quality-engineering)** — functional, contract, accessibility, security and performance evidence combined into transparent release recommendations.
+- **[QE to Forward Deployed AI Engineer](https://github.com/ashokmanohar-ai/-qe-to-forward-deployed-ai-engineer)** — a practical build-and-delivery pathway covering customer discovery, APIs, RAG, agents, deployment, observability, incident diagnosis and handover.
 
 ## Quality-engineering system map
 
@@ -84,6 +106,16 @@ flowchart TD
   <img src="https://img.shields.io/badge/OpenTelemetry-Observability-000000?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry" />
 </p>
 
+## Role alignment
+
+| Role | Evidence I want a reviewer to inspect |
+| --- | --- |
+| **Test Architect / QE Architect** | Framework architecture, API/contracts, CI/CD, scalability, accessibility, performance and release governance |
+| **AI Quality Engineer / Architect** | LLM/RAG evaluation, golden datasets, AI regression, security, observability, hard quality gates and cost/latency evidence |
+| **AI Test Automation Architect** | Playwright + API automation combined with agent-assisted generation, execution evidence and controlled failure triage |
+| **Agentic AI Engineer** | LangGraph state, bounded tools, agent contracts, trajectory evaluation, approvals, persistence and observability |
+| **Forward Deployed Engineer (AI)** | Customer discovery simulations, integration design, rapid prototyping, deployment, debugging, incidents and handover evidence |
+
 ## Engineering principles
 
 - **Deterministic before probabilistic:** use schemas, rules, contracts and exact evidence wherever possible.
@@ -94,11 +126,11 @@ flowchart TD
 
 ## Current interests
 
-I am continuing to explore agent evaluation, MCP security and conformance, computer-use testing, risk-based regression selection, AI observability, test-data engineering, and production feedback loops for AI quality.
+I am continuing to explore agent evaluation, MCP security and conformance, computer-use testing, risk-based regression selection, AI observability, test-data engineering, production feedback loops for AI quality, and forward-deployed AI delivery patterns.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ashok-kumar-manohar/)
 - [Explore my public repositories](https://github.com/ashokmanohar-ai?tab=repositories)
 
-<p align="center"><sub>Building quality systems that turn AI behaviour into reviewable engineering evidence.</sub></p>
+<p align="center"><sub>Building quality systems that turn software and AI behaviour into reviewable engineering evidence.</sub></p>
