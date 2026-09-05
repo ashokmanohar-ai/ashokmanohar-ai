@@ -1,50 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Ashok Kumar Manohar — Test Architect and AI Quality Engineering Architect</title>
-  <desc id="desc">Professional banner highlighting Test Architecture, Agentic AI, Playwright, API and CI/CD engineering, plus LLM, RAG and agent evaluation.</desc>
+  <desc id="desc">Executive GitHub banner positioning Ashok Kumar Manohar across enterprise Quality Engineering, production AI, Agentic AI, Playwright, API, CI/CD, LLM, RAG and agent evaluation.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.55" stop-color="#0b1f35"/>
+      <stop offset="0" stop-color="#06111f"/>
+      <stop offset="0.52" stop-color="#0b1f35"/>
       <stop offset="1" stop-color="#172554"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="0.55" stop-color="#60a5fa"/>
+      <stop offset="0.52" stop-color="#60a5fa"/>
       <stop offset="1" stop-color="#a78bfa"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="12"/>
+      <feGaussianBlur stdDeviation="13"/>
     </filter>
   </defs>
 
   <rect width="1200" height="320" rx="24" fill="url(#background)"/>
-  <circle cx="1055" cy="58" r="130" fill="#22d3ee" opacity="0.08" filter="url(#glow)"/>
-  <circle cx="110" cy="300" r="150" fill="#8b5cf6" opacity="0.09" filter="url(#glow)"/>
+  <circle cx="1050" cy="58" r="138" fill="#22d3ee" opacity="0.08" filter="url(#glow)"/>
+  <circle cx="120" cy="305" r="158" fill="#8b5cf6" opacity="0.09" filter="url(#glow)"/>
 
-  <g fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.28">
-    <path d="M905 76 L1000 128 L1092 79 L1152 150 L1070 228 L965 206 L905 76"/>
-    <path d="M1000 128 L1070 228 M1092 79 L965 206 M905 76 L1152 150"/>
+  <g fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.24">
+    <path d="M908 72 L1000 126 L1092 78 L1152 150 L1072 230 L968 206 L908 72"/>
+    <path d="M1000 126 L1072 230 M1092 78 L968 206 M908 72 L1152 150"/>
   </g>
   <g fill="#67e8f9">
-    <circle cx="905" cy="76" r="5"/>
-    <circle cx="1000" cy="128" r="7"/>
-    <circle cx="1092" cy="79" r="5"/>
+    <circle cx="908" cy="72" r="5"/>
+    <circle cx="1000" cy="126" r="7"/>
+    <circle cx="1092" cy="78" r="5"/>
     <circle cx="1152" cy="150" r="6"/>
-    <circle cx="1070" cy="228" r="7"/>
-    <circle cx="965" cy="206" r="5"/>
+    <circle cx="1072" cy="230" r="7"/>
+    <circle cx="968" cy="206" r="5"/>
   </g>
 
-  <rect x="72" y="62" width="86" height="6" rx="3" fill="url(#accent)"/>
-  <text x="72" y="124" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.4">Ashok Kumar Manohar</text>
-  <text x="72" y="166" fill="#bae6fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.35">TEST ARCHITECT  ·  AI QUALITY ENGINEERING ARCHITECT</text>
-  <text x="72" y="207" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Agentic AI · Playwright · API &amp; CI/CD · LLM, RAG &amp; Agent Evaluation</text>
+  <rect x="72" y="58" width="92" height="6" rx="3" fill="url(#accent)"/>
+  <text x="72" y="119" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.4">Ashok Kumar Manohar</text>
+  <text x="72" y="161" fill="#bae6fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.25">TEST ARCHITECT  ·  AI QUALITY ENGINEERING ARCHITECT</text>
+  <text x="72" y="202" fill="#f1f5f9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Enterprise Quality Engineering × Production AI</text>
+  <text x="72" y="228" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15.5">Agentic AI · Playwright · API &amp; CI/CD · LLM, RAG &amp; Agent Evaluation</text>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
-    <rect x="72" y="239" width="214" height="36" rx="18" fill="#0e7490" opacity="0.72"/>
-    <text x="179" y="262" text-anchor="middle" fill="#ecfeff">LLM · RAG · Agent Evals</text>
-    <rect x="300" y="239" width="202" height="36" rx="18" fill="#1d4ed8" opacity="0.72"/>
-    <text x="401" y="262" text-anchor="middle" fill="#eff6ff">Playwright · TypeScript</text>
-    <rect x="516" y="239" width="220" height="36" rx="18" fill="#6d28d9" opacity="0.68"/>
-    <text x="626" y="262" text-anchor="middle" fill="#f5f3ff">Quality Gates · Governance</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600">
+    <rect x="72" y="252" width="202" height="34" rx="17" fill="#0e7490" opacity="0.78"/>
+    <text x="173" y="274" text-anchor="middle" fill="#ecfeff">14+ Years Enterprise QE</text>
+    <rect x="288" y="252" width="196" height="34" rx="17" fill="#1d4ed8" opacity="0.74"/>
+    <text x="386" y="274" text-anchor="middle" fill="#eff6ff">AI Quality · Agentic AI</text>
+    <rect x="498" y="252" width="232" height="34" rx="17" fill="#6d28d9" opacity="0.70"/>
+    <text x="614" y="274" text-anchor="middle" fill="#f5f3ff">Evidence-Driven Release</text>
   </g>
 </svg>
