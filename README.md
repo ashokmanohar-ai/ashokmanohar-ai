@@ -12,11 +12,16 @@
   <img src="https://img.shields.io/badge/Focus-Evidence_Driven_QE-6D28D9?style=for-the-badge" alt="Evidence-driven quality engineering" />
 </p>
 
-## About me
+## Recruiter snapshot
 
-I am a **Test Architect and AI Quality Engineer** focused on making nondeterministic software systems measurable, testable, secure, observable, and releasable.
+I am a **Test Architect and AI Quality Engineer with 14+ years of experience** building enterprise quality-engineering systems across automation, APIs, CI/CD, reliability, and AI evaluation.
 
-My work connects **LLM, RAG, agent and MCP evaluation** with the engineering disciplines required to ship dependable products: Playwright automation, API and contract testing, performance and reliability engineering, security controls, observability, CI/CD quality gates, and human governance.
+- **Selected delivery impact:** reduced escaped defects by **40% year over year**, increased FHIR API coverage from **60% to 95%**, and reduced regression execution from **4 hours to under 60 minutes**.
+- **Best-fit roles:** Test Architect · QE Architect / Practice Lead · AI Quality Engineering Lead.
+- **Differentiator:** I connect Playwright, API, contract, performance, and release engineering with **LLM, RAG, agent, and MCP evaluation**.
+- **90-second portfolio route:** [Playwright framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework) → [Enterprise AI QE platform](https://github.com/ashokmanohar-ai/enterprise-ai-quality-engineering-platform) → [API integration framework](https://github.com/ashokmanohar-ai/api-integration-testing-framework).
+
+The delivery outcomes above come from prior enterprise work. Portfolio datasets and demonstrations are explicitly identified as synthetic or reference implementations.
 
 > **Evidence first. AI assists engineering decisions; it does not replace engineering controls.**
 
