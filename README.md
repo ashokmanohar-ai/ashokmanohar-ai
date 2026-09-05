@@ -23,6 +23,7 @@
 I am a **Test Architect and AI Quality Engineering Architect with 14+ years of experience** building enterprise quality-engineering systems across automation, APIs, CI/CD, reliability, and AI evaluation.
 
 - **Selected delivery impact:** reduced escaped defects by **40% year over year**, increased FHIR API coverage from **60% to 95%**, and reduced regression execution from **4 hours to under 60 minutes**.
+- **Portfolio maturity:** five stable **v1.0.0** portfolio releases across Playwright, Enterprise AI QE, Agentic QE, API/Integration, and AI Agent Evaluation; RAG and Performance remain CI-validated engineering projects without a formal release claim.
 - **Primary role fit:** Test Architect · Quality Engineering Architect · AI Quality Engineering Architect · AI Test Automation Architect.
 - **AI delivery alignment:** Agentic AI Engineer · Agentic AI Quality Engineer · Forward Deployed Engineer (AI), supported by portfolio evidence across customer discovery, integration, deployment, evaluation, observability and incident response.
 - **Differentiator:** I connect deterministic software-quality engineering—Playwright, API, contract, performance and CI/CD—with **LLM, RAG, agent and MCP evaluation**.
