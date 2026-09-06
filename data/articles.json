@@ -1,9 +1,65 @@
 [
-  {"title":"Why AI Quality Engineering Needs More Than Traditional Test Automation","description":"A concise engineering view of what changes when systems become probabilistic, tool-using and retrieval-augmented.","readingTime":"6 min","category":"AI Quality Engineering","date":"","url":"articles/ai-quality-engineering.html","status":"Portfolio article"},
-  {"title":"A Practical Evaluation Model for RAG Systems","description":"Separate retrieval quality from generation quality so teams can diagnose the real source of RAG failures.","readingTime":"7 min","category":"RAG","date":"","url":"articles/rag-evaluation-model.html","status":"Portfolio article"},
-  {"title":"Designing Playwright as an Enterprise Quality Platform","description":"Architecture patterns that move browser automation beyond scripts into reusable, observable and governed engineering workflows.","readingTime":"6 min","category":"Playwright","date":"","url":"articles/playwright-enterprise-platform.html","status":"Portfolio article"},
-  {"title":"GitHub Copilot Complete Guide","description":"Practical guidance for agent mode, engineering workflows and disciplined AI-assisted development.","readingTime":"Repository guide","category":"Developer Productivity","date":"","url":"https://github.com/ashokmanohar-ai/github-copilot-complete-guide","status":"GitHub guide"},
-  {"title":"OpenAI Codex Complete Guide","description":"A practical guide to agentic coding, review and delivery workflows.","readingTime":"Repository guide","category":"Agentic Development","date":"","url":"https://github.com/ashokmanohar-ai/openai-codex-complete-guide","status":"GitHub guide"},
-  {"title":"Claude Code Complete Guide","description":"Practical AI-assisted software engineering patterns and workflows.","readingTime":"Repository guide","category":"Developer Productivity","date":"","url":"https://github.com/ashokmanohar-ai/claude-code-complete-guide","status":"GitHub guide"},
-  {"title":"LangGraph Agentic AI Tutorial","description":"Hands-on concepts for state, tools, orchestration and control flow in agentic systems.","readingTime":"Repository guide","category":"Agentic AI","date":"","url":"https://github.com/ashokmanohar-ai/langgraph-agentic-ai-tutorial","status":"GitHub guide"}
+  {
+    "title": "Why AI Quality Engineering Needs More Than Traditional Test Automation",
+    "description": "A concise engineering view of what changes when systems become probabilistic, tool-using and retrieval-augmented.",
+    "readingTime": "6 min",
+    "category": "AI Quality Engineering",
+    "date": "",
+    "url": "articles/ai-quality-engineering.html",
+    "status": "Portfolio article"
+  },
+  {
+    "title": "A Practical Evaluation Model for RAG Systems",
+    "description": "Separate retrieval quality from generation quality so teams can diagnose the real source of RAG failures.",
+    "readingTime": "7 min",
+    "category": "RAG",
+    "date": "",
+    "url": "articles/rag-evaluation-model.html",
+    "status": "Portfolio article"
+  },
+  {
+    "title": "Designing Playwright as an Enterprise Quality Platform",
+    "description": "Architecture patterns that move browser automation beyond scripts into reusable, observable and governed engineering workflows.",
+    "readingTime": "6 min",
+    "category": "Playwright",
+    "date": "",
+    "url": "articles/playwright-enterprise-platform.html",
+    "status": "Portfolio article"
+  },
+  {
+    "title": "GitHub Copilot Complete Guide",
+    "description": "Practical guidance for agent mode, engineering workflows and disciplined AI-assisted development.",
+    "readingTime": "Repository guide",
+    "category": "Developer Productivity",
+    "date": "",
+    "url": "https://github.com/ashokmanohar-ai/github-copilot-complete-guide",
+    "status": "GitHub guide"
+  },
+  {
+    "title": "OpenAI Codex Complete Guide",
+    "description": "A practical guide to agentic coding, review and delivery workflows.",
+    "readingTime": "Repository guide",
+    "category": "Agentic Development",
+    "date": "",
+    "url": "https://github.com/ashokmanohar-ai/openai-codex-complete-guide",
+    "status": "GitHub guide"
+  },
+  {
+    "title": "Claude Code Complete Guide",
+    "description": "Practical AI-assisted software engineering patterns and workflows.",
+    "readingTime": "Repository guide",
+    "category": "Developer Productivity",
+    "date": "",
+    "url": "https://github.com/ashokmanohar-ai/claude-code-complete-guide",
+    "status": "GitHub guide"
+  },
+  {
+    "title": "LangGraph Agentic AI Tutorial",
+    "description": "Hands-on concepts for state, tools, orchestration and control flow in agentic systems.",
+    "readingTime": "Repository guide",
+    "category": "Agentic AI",
+    "date": "",
+    "url": "https://github.com/ashokmanohar-ai/langgraph-agentic-ai-tutorial",
+    "status": "GitHub guide"
+  }
 ]
