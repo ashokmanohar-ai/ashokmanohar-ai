@@ -1,0 +1,2 @@
+/* Deliberately lightweight: core responsive rules live in main.css to avoid duplicate downloads.
+   Keep this file for project-specific responsive overrides if the portfolio grows. */

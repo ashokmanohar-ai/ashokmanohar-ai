@@ -1,0 +1,8 @@
+[
+  {"title":"AI & Agentic Quality Engineering","items":["Agentic AI","Multi-Agent Systems","AI Agent Evaluation","LLM Evaluation","RAG Evaluation","AI Safety Testing","Prompt Evaluation","Hallucination Testing","LLM-as-a-Judge","RAGAS","Retrieval Quality","AI Test Generation","MCP"]},
+  {"title":"Test Architecture","items":["Enterprise Test Strategy","Quality Engineering Architecture","Test Automation Architecture","Automation Governance","Test Pyramid","Risk-Based Testing","Quality Gates","Shift Left Testing","Continuous Testing"]},
+  {"title":"Automation Engineering","items":["Playwright","TypeScript","JavaScript","Python","Selenium","API Automation","BDD","Cucumber","Data-Driven Testing","Parallel Execution"]},
+  {"title":"API & Integration Testing","items":["REST APIs","OpenAPI / Swagger","GraphQL","Postman","API Workflow Testing","Contract Testing","Authentication Testing","Complex API Journey Testing"]},
+  {"title":"DevOps & Continuous Quality","items":["GitHub Actions","Jenkins","Azure DevOps","CI/CD","Docker","Cloud Deployment","Quality Gates","Automated Reporting"]},
+  {"title":"AI / Data Platforms","items":["OpenAI","Azure OpenAI","Claude","RAG","ChromaDB","Vector Databases","Embeddings","Semantic Search","Reranking"]}
+]

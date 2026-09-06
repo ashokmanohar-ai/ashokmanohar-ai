@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashokmanohar-ai.github.io/sitemap.xml
