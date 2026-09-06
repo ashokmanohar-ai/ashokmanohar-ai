@@ -4,6 +4,7 @@ from __future__ import annotations
 import json, re, sys
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 ERRORS=[]
@@ -11,7 +12,7 @@ WARNINGS=[]
 
 class LinkParser(HTMLParser):
     def __init__(self):
-        super().__init__(); self.refs=[]; self.ids=set(); self.description=False; self.canonical=False
+        super().__init__(); self.refs=[]; self.ids=set(); self.title=False; self.description=False; self.canonical=False
     def handle_starttag(self, tag, attrs):
         a=dict(attrs)
         if a.get('id'): self.ids.add(a['id'])
@@ -21,6 +22,8 @@ class LinkParser(HTMLParser):
             if a.get('rel')=='canonical': self.canonical=True
             if a.get('rel') in {'stylesheet','icon'}: self.refs.append(('href',a['href']))
         if tag=='meta' and a.get('name')=='description' and a.get('content'): self.description=True
+    def handle_data(self, data):
+        pass
 
 
 def validate_json():

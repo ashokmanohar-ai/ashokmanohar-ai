@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ashokmanohar-ai.github.io/sitemap.xml
+Sitemap: https://ashokmanohar-ai.github.io/ashokmanohar-ai/sitemap.xml

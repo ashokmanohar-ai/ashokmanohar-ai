@@ -2,9 +2,9 @@
 
 A production-quality GitHub Pages portfolio for **Ashok Kumar Manohar**, positioned around senior **Test Architecture, AI Quality Engineering, Agentic AI, Playwright, API automation, CI/CD, RAG and LLM evaluation**.
 
-**Default live URL:** `https://ashokmanohar-ai.github.io`
+**Live URL after GitHub Pages is enabled:** `https://ashokmanohar-ai.github.io/ashokmanohar-ai/`
 
-![Portfolio preview](assets/og-image.png)
+![Portfolio preview](assets/images/portfolio-preview.png)
 
 ## About
 
@@ -35,13 +35,11 @@ The site is designed as a professional hub for UK recruiters, hiring managers, E
 - Printer-friendly HTML resume and downloadable PDF resume
 - Open Graph / LinkedIn social preview image
 - Sitemap, robots, canonical metadata and structured Person metadata
-- GitHub Actions deployment for both root Pages sites and repository subpaths
+- GitHub Actions deployment for repository Pages
 - Dependency-free site validation before deployment
 - No analytics, trackers, secrets or GitHub tokens
 
 ## Technology
-
-The runtime is intentionally simple:
 
 - Semantic HTML5
 - Modern CSS
@@ -71,24 +69,13 @@ python tools/validate_site.py
 
 ## Deployment
 
-1. Create a GitHub repository and copy these files into it.
-2. Commit and push to the `main` branch.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-5. The workflow in `.github/workflows/deploy.yml` validates and deploys the site.
+This portfolio is maintained on the `portfolio-site` branch so the existing GitHub profile content on `main` remains untouched.
 
-The workflow automatically determines the correct public base URL for either:
+1. Open **Settings → Pages** in `ashokmanohar-ai/ashokmanohar-ai`.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+3. The workflow in `.github/workflows/deploy.yml` validates and deploys pushes to `portfolio-site`.
 
-- `username.github.io`
-- `username.github.io/repository-name/`
-
-It then runs `tools/update-seo.py` on the deployment artifact so canonical URLs, Open Graph URLs, `robots.txt`, `sitemap.xml` and `data/profile.json` use the correct Pages path.
-
-For a custom domain, run before deployment (or adjust the workflow):
-
-```bash
-python tools/update-seo.py --site-url "https://your-domain.example"
-```
+The workflow determines the repository Pages URL and runs `tools/update-seo.py` so canonical URLs, Open Graph URLs, `robots.txt`, `sitemap.xml` and `data/profile.json` use the correct Pages path.
 
 ## Repository Structure
 
@@ -103,28 +90,13 @@ python tools/update-seo.py --site-url "https://your-domain.example"
 ├── articles.html
 ├── resume.html
 ├── contact.html
-├── projects/                 # Deep project case studies
-├── publications/             # Local white-paper pages
-├── articles/                 # HTML articles + Markdown sources
+├── projects/
+├── publications/
+├── articles/
 ├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   ├── icons/
-│   ├── og-image.png
-│   └── Ashok-Kumar-Manohar-Resume.pdf
 ├── data/
-│   ├── profile.json
-│   ├── projects.json
-│   ├── expertise.json
-│   ├── architectures.json
-│   ├── publications.json
-│   ├── articles.json
-│   └── resume.json
-├── docs/architecture/        # Markdown architecture notes
+├── docs/architecture/
 ├── tools/
-│   ├── update-seo.py
-│   └── validate_site.py
 ├── .github/workflows/deploy.yml
 ├── .nojekyll
 ├── robots.txt
@@ -135,40 +107,17 @@ python tools/update-seo.py --site-url "https://your-domain.example"
 
 ## Updating Content
 
-### Personal links
+Edit `data/profile.json` for shared identity and contact links. An empty optional link is hidden automatically instead of rendering a broken CTA.
 
-Edit only `data/profile.json` for shared identity/contact links:
+Edit `data/projects.json` for featured projects. Public repository metadata is enriched client-side without a token, while static project content remains visible if the GitHub API is unavailable or rate-limited.
 
-```json
-{
-  "github": "https://github.com/ashokmanohar-ai",
-  "linkedin": "https://www.linkedin.com/in/ashok-kumar-manohar",
-  "email": "",
-  "resume": "assets/Ashok-Kumar-Manohar-Resume.pdf"
-}
-```
+Edit `data/publications.json` and `data/articles.json` for publication and article cards. Long-form Markdown sources live under `articles/` and `docs/`.
 
-An empty optional link is hidden automatically instead of rendering a broken CTA.
+The web resume is rendered from `data/resume.json`; replace `assets/Ashok-Kumar-Manohar-Resume.pdf` whenever the downloadable PDF changes.
 
-### Projects
+## Quality, Security and Privacy
 
-Edit `data/projects.json`. Public repository metadata is enriched client-side without a token. The static project content remains visible if the GitHub API is unavailable or rate-limited.
-
-### Publications and articles
-
-- Edit `data/publications.json` and `data/articles.json` for cards.
-- Keep long-form Markdown sources under `articles/` or `docs/`.
-- Publication HTML pages live under `publications/`.
-
-### Resume
-
-The web resume is rendered from `data/resume.json`. Replace `assets/Ashok-Kumar-Manohar-Resume.pdf` whenever the downloadable PDF changes.
-
-## Quality and Accessibility
-
-The implementation uses semantic landmarks, keyboard-focus styles, an accessible mobile menu, responsive layouts, colour contrast designed for WCAG 2.1 AA-oriented use, `prefers-reduced-motion`, lazy-friendly static assets, and minimal JavaScript. `tools/validate_site.py` checks required files, JSON parsing, local references and baseline metadata before deployment.
-
-## Security and Privacy
+The implementation uses semantic landmarks, keyboard-focus styles, an accessible mobile menu, responsive layouts, reduced-motion support and minimal JavaScript. `tools/validate_site.py` checks required files, JSON parsing, local references and baseline metadata before deployment.
 
 - No personal access tokens
 - No credentials or secrets
