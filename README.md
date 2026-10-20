@@ -13,6 +13,18 @@
   <a href="https://www.linkedin.com/in/ashok-kumar-manohar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+## Work with me — AI quality & automation
+
+**[AI Quality Consulting — services, evidence and project enquiries](https://ashok-ai-quality-consulting.vercel.app/)**
+
+UK-based support for **LLM/RAG evaluation**, **Playwright UI/API automation** and **AI release assurance**. Start with a focused milestone, explicit acceptance criteria and maintainable handover.
+
+- [LLM Quality Evaluation Harness](https://github.com/ashokmanohar-ai/llm-quality-evaluation-harness): offline reference evaluation, regression evidence and quality gates.
+- [Playwright Enterprise Test Framework](https://github.com/ashokmanohar-ai/playwright-enterprise-test-framework): typed browser/API automation and evidence-rich release checks.
+- [Discuss a project on Freelancer](https://www.freelancer.com/u/ashokkumarm20) or [connect on LinkedIn](https://www.linkedin.com/in/ashok-kumar-manohar/).
+
+Public reference projects use synthetic or controlled examples. Employment outcomes are described separately.
+
 ## Recruiter snapshot
 
 I architect **enterprise Quality Engineering and AI Assurance systems** spanning traditional automation and production AI. My focus is not only whether a test passed, but whether there is sufficient evidence to prove that an AI system is **reliable, grounded, safe, authorized, observable, governed and ready for release**.
